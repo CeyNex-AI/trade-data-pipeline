@@ -1,0 +1,14 @@
+# Downloaded models
+Qwen3-VL-2B-Instruct/
+all-MiniLM-L6-v2/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pipeline artifacts (reproducible via fetch.py / pdf_to_png.py / ocr_pages.py / extract.py / enrich.py / chunk.py / index.py)
+raw/
+pages/
+ocr_output/
+build/
+qdrant_storage/
