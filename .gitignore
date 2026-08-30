@@ -12,3 +12,6 @@ pages/
 ocr_output/
 build/
 qdrant_storage/
+
+#Other
+*.md
