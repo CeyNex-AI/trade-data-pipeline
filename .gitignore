@@ -5,6 +5,7 @@ all-MiniLM-L6-v2/
 # Python
 __pycache__/
 *.pyc
+*.txt
 
 # Pipeline artifacts (reproducible via fetch.py / pdf_to_png.py / ocr_pages.py / extract.py / enrich.py / chunk.py / index.py)
 raw/
