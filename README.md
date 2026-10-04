@@ -89,4 +89,4 @@ The difference between the two runs is the accuracy claim for policy retrieval. 
 
 ## Team
 
-Pipeline: Thisen Ekanayake (230170B). Team: Senindu Dinapura (230151T), Dhinanjaya Fernando (230181J). Supervisor: Dr. Chathuranga Hettiarachchi, University of Moratuwa.
+Pipeline: Thisen Ekanayake (230170B). Team: Senindu Dinapura (230151T), Dhinanjaya Fernando (230181J). Supervisor: Dr. Chathuranga Hettiarachchi. Teaching Assistant: Birunthaban Rajendram. University of Moratuwa.
