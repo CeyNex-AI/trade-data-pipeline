@@ -16,3 +16,4 @@ qdrant_storage/
 
 #Other
 *.md
+!README.md
